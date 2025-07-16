@@ -8,7 +8,7 @@ Me chamo Beatriz Oliveira, Tenho 19 anos sou natural de São Paulo. Atualmente, 
         <img 
             alt="Total of Stars" 
             title="Total of Stars GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Beatriz-Oliveira?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600""
+            src="https://custom-icon-badges.demolab.com/github/stars/Beatriz-Oliveira?color=%23E1AD0E&logo=star&logoColor=white&style=for-the-badge&labelColor=C79600""
         />
     </a>
     <a href="https://github.com/Beatriz-Oliveira?tab=followers">
