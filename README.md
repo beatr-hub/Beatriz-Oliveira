@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia de Software`**
 
-Me chamo Beatriz Oliveira, Tenho 19 anos sou natural de São Paulo. Atualmente, estou cursando Engenharia de Software na Universidade de Mogi das Cruzes - UMC."[https://google.com]". Sou apaixonada por tecnologia, música e artes. Apresento a vocês o meu perfil do GitHub onde compartilho meus conhecimentos e evolução nos estudos de programação.
+Me chamo Beatriz Oliveira, Tenho 19 anos sou natural de São Paulo. Atualmente, estou cursando Engenharia de Software na Universidade de Mogi das Cruzes - UMC. Sou apaixonada por tecnologia, música e artes. Apresento a vocês o meu perfil do GitHub onde compartilho meus conhecimentos e evolução nos estudos de programação.
 
  <a href="https://github.com/Beatriz-Oliveira?tab=repositories&sort=stargazers">
         <img 
