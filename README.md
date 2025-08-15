@@ -22,6 +22,8 @@ Atualmente estudo em Mogi das Cruzes - SP e estou focada em HTML, CSS, JavaScrip
 <p align="left">
     <a href="https://www.linkedin.com/in/beatriz-de-jesus-oliveira">
     <img
+        alt="Linkedin account"
+        title="Follow me on Linkedin"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
         />
     </a>
