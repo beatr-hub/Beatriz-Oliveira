@@ -21,11 +21,11 @@ Atualmente estudo em Mogi das Cruzes - SP e estou focada em HTML, CSS, JavaScrip
 
 <p align="left">
     <a href="https://www.linkedin.com/in/beatriz-de-jesus-oliveira">
-    <img
+      <img
         alt="Linkedin account"
-        title="Follow me on Linkedin"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-        />
+        title="Connect with me on Linkedin"
+        src="https://custom-icon-badges.demolab.com/linkedin/in/beatriz-de-jesus-oliveira?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white"
+      />
     </a>
     <a href="mailto:beatrizjoliveira.dev@gmail.com">
       <img 
@@ -85,7 +85,8 @@ Atualmente estudo em Mogi das Cruzes - SP e estou focada em HTML, CSS, JavaScrip
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+    />
 />
 
 <img 
